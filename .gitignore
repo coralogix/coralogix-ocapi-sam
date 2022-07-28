@@ -1,3 +1,11 @@
+# personal test env.json
+private.env.json
+
+# sam files
+.aws-sam/
+packaged.yaml
+samconfig.toml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
